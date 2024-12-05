@@ -9,7 +9,7 @@ function Homepage(){
         <img src="https://raw.githubusercontent.com/PatelNeelMahesh/frontend_tasks/refs/heads/main/10.spotify-clone/assets/Spotify%20logo.png" alt="" className="logo"/>
         <div className="img1" ><img className="icons" src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/10.spotify-clone/assets/Home.png?raw=true" alt=""/><p className="text0">Home</p></div>
         
-        <div className="img1" ><img className="icons" src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/10.spotify-clone/assets/Search.png?raw=true" alt=""/><p className="text01">search</p></div>
+        <div className="img2" ><img className="icons" src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/10.spotify-clone/assets/Search.png?raw=true" alt=""/><p className="text01">search</p></div>
         
         <div className="img3" ><img className="icons" src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/10.spotify-clone/assets/Your%20library.png?raw=true" alt=""/><p className="text02">Your Library</p></div>
         
@@ -39,7 +39,7 @@ function Homepage(){
         <p className="text6" >EDM / Popular</p>
     </div>
 
-    <div>
+    <div className="install">
         <img  src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/10.spotify-clone/assets/grommet-icons_install-option.png?raw=true" alt="" className="icons"/>
         <p className="app"  >Install App</p>
     </div>
@@ -85,6 +85,10 @@ function Homepage(){
     <img className="img14" src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/10.spotify-clone/assets/bx_bxs-heart.png?raw=true" alt=""/>
     <img className="images5" src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/10.spotify-clone/assets/Music%20Player%20Options.png?raw=true" alt=""/>
     <img src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/10.spotify-clone/assets/Right%20options.png?raw=true" alt="" className="images6"/>
+    </div>
+
+    <div className="green">
+    <p className="par">Listenini on ASUS-ROG-G531GT</p>
     </div>
           
         </>
